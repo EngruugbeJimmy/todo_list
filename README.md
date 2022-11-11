@@ -29,26 +29,25 @@ In this project, we built a basic website that allows users to prepare to do lis
 </P>
 
 ## Live Demo (if available)
-Live Demo [Link](https://engruugbejimmy.github.io/todo_list/)
+Live Demo [Link](#)
+
+# TO DO LIST PROJECT ES6
+This repo is created to contains to do list project files. In this project I used ES6.
+
+## Overview
+
+In this project, we built a basic website that allows users to prepare to do list. This was achieved by using JavaScript objects and arrays, while using javascript DOM and basic events to dynamically modify the page.
+
 
 ## Getting Started
 Simply you can open index.html file with any browser and, you will see the home page.
 for opennig index.html go to awesome-books directory, find index.html, right click on it, click on open with and, click on any browser which is available on your pc/labtop. 
-### Prerequisites
+
 ### Browser## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-## Getting Started
-
-- Install git bash to your machine to enable you to clone this repo.
-- install Visual Studio to be able to host a local live version.
-- Install a browser to view the local live version.
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -76,3 +75,4 @@ Give a ⭐️ if you like this project!
 This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
 
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+
