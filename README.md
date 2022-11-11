@@ -9,17 +9,15 @@ In this project, we built a basic website that allows users to prepare to do lis
 
 ## Project Tasks List
 
-- [x] Set up a new project with webpack that is based on the webpack exercise you have already completed.
-- [x] Create an index.html file and write your HTML markup here. Create an empty To Do List placeholder (div or ul element). 
-- [x] The index.html file must be set as a template using the HTML Webpack Plugin.
-- [x] Create an index.js file and set an array of some simple to do tasks (array of objects). 
-- [x] Each task object should contain three keys:
-   - [x] description [string].
-   - [x] completed [bool].
-   - [x] index: [number].
-- [x] Write a function to iterate over the tasks array and populate an HTML list item element for each task.
-- [x] On page load render the dynamically created list of tasks in the dedicated placeholder. The list should appear in order of the index values for each task.
-- [x] Create a style.css and set rules for the To Do List. CSS must be loaded by Webpack Style/CSS Loader. Your list should be a clone of the part of the minimalist project captured in the video below.
+- [x] Remove all hardcoded items from the tasks array.
+- [x] Create a new JavaScript file for the new functionality.
+- [x] Implement a function for adding a new task (add a new element to the array).
+- [x] Implement a function for deleting a task (remove an element from the array).
+- [x] Implement a function for editing task descriptions.
+- [x] By default new tasks should have the property completed set to false and the property index set to the value of the new array length (i.e. if you're adding a 5th task to the list, the index of that task should equal to 5).
+- [x] Deleting a task should update all remaining items' indexes, so they represent the current list order and are unique(i.e. if you're deleting the first task index 1 from the list, the index of the next task(2) should set to 1)..
+- [x] All changes to the To Do List should be saved in local storage.
+
 
 ## Screenshots
 
@@ -34,21 +32,12 @@ Live Demo [Link](https://engruugbejimmy.github.io/todo_list/)
 ## Getting Started
 Simply you can open index.html file with any browser and, you will see the home page.
 for opennig index.html go to awesome-books directory, find index.html, right click on it, click on open with and, click on any browser which is available on your pc/labtop. 
-### Prerequisites
+
 ### Browser## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-## Getting Started
-
-- Install git bash to your machine to enable you to clone this repo.
-- install Visual Studio to be able to host a local live version.
-- Install a browser to view the local live version.
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -76,3 +65,4 @@ Give a ⭐️ if you like this project!
 This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
 
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+
