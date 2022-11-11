@@ -1,23 +1,22 @@
 ![](https://img.shields.io/badge/EngruugbeJimmy-blue)
 
-# Awesome books ES6
-this repo created to contains Awesome Books project files. In this project I used ES6.
+# TO DO LIST PROJECT ES6
+This repo is created to contains to do list project files. In this project I used ES6.
 
 ## Overview
 
-In this project, we built a basic website that allows users to add/remove books from a list. This was achieved by using JavaScript objects and arrays, while using javascript DOM and basic events to dynamically modify the page.
+In this project, we built a basic website that allows users to prepare to do list. This was achieved by using JavaScript objects and arrays, while using javascript DOM and basic events to dynamically modify the page.
 
 ## Project Tasks List
 
-- [x]
 - [x] Set up a new project with webpack that is based on the webpack exercise you have already completed.
-- [x] Create an index.html file and write your HTML markup here. Create an empty To Do List placeholder (<div> or <ul> element). 
+- [x] Create an index.html file and write your HTML markup here. Create an empty To Do List placeholder (div or ul element). 
 - [x] The index.html file must be set as a template using the HTML Webpack Plugin.
 - [x] Create an index.js file and set an array of some simple to do tasks (array of objects). 
 - [x] Each task object should contain three keys:
-description [string].
-completed [bool].
-index: [number].
+   - [x] description [string].
+   - [x] completed [bool].
+   - [x] index: [number].
 - [x] Write a function to iterate over the tasks array and populate an HTML list item element for each task.
 - [x] On page load render the dynamically created list of tasks in the dedicated placeholder. The list should appear in order of the index values for each task.
 - [x] Create a style.css and set rules for the To Do List. CSS must be loaded by Webpack Style/CSS Loader. Your list should be a clone of the part of the minimalist project captured in the video below.
