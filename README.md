@@ -27,7 +27,7 @@ In this project, we built a basic website that allows users to prepare to do lis
 </P>
 
 ## Live Demo (if available)
-Live Demo [Link](https://engruugbejimmy.github.io/todo_list/)
+Live Demo [Link](#)
 
 ## Getting Started
 Simply you can open index.html file with any browser and, you will see the home page.
