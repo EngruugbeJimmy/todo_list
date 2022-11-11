@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/EngruugbeJimmy-blue)
 
-# Awesome books ES6
+# TO DO LIST PROJECT ES6
 this repo created to contains Awesome Books project files. In this project I used ES6.
 
 ## Overview
 
-In this project, we built a basic website that allows users to add/remove books from a list. This was achieved by using JavaScript objects and arrays, while using javascript DOM and basic events to dynamically modify the page.
+In this project, we built a basic website that allows users to prepare to do list. This was achieved by using JavaScript objects and arrays, while using javascript DOM and basic events to dynamically modify the page.
 
 ## Project Tasks List
 
-- [x]
 - [x] Set up a new project with webpack that is based on the webpack exercise you have already completed.
 - [x] Create an index.html file and write your HTML markup here. Create an empty To Do List placeholder (<div> or <ul> element). 
 - [x] The index.html file must be set as a template using the HTML Webpack Plugin.
