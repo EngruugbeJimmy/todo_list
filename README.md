@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/EngruugbeJimmy-blue)
 
 # TO DO LIST PROJECT ES6
-This repo created to contains to do list project files. In this project I used ES6.
+This repo is created to contains to do list project files. In this project I used ES6.
 
 ## Overview
 
